@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanispeace&show_icons=true&locale=en" alt="amanispeace" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMANISPEACE&" alt="amanispeace" /></p>
+
 
 <!--
 **AMANISPEACE/AMANISPEACE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
